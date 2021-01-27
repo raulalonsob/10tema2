@@ -1,0 +1,39 @@
+#container {
+    background-image: linear-gradient(25deg, #1c6683 50%, #00fff2 );
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 15%;
+
+}
+
+#principal {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    align-items: flex-end;
+    width: 80%;
+    
+}
+
+div {
+    display: flex;
+    
+    
+}
+
+#medio {
+    
+    width: 80%;
+    background-color: rgb(228, 228, 228);
+    
+
+}
+
+img {
+    padding: 20px;
+    width: 200px;
+    align-self: baseline;
+}
